@@ -1,0 +1,19 @@
+{
+  "author": "Brad Dayley",
+  "name": "ssanchit002",
+  "version": "0.1.1",
+  "description": "Censors words out of text",
+  "main": "censortext",
+  "repostory": {
+    "type": "git",
+	"url":"https://github.com/ssanchit002"
+  },
+  "keywords": [
+    "censor",
+    "words"
+  ],
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
